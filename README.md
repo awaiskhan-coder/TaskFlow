@@ -74,7 +74,7 @@ Task-Manager/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/awaiskhan-coder/TaskFlow.git
 ```
 
 ### Install Frontend
